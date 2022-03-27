@@ -1,4 +1,4 @@
----
+https://github.com/Yula-bet/Yula-bet.git---
 title: About task lists
 intro: 'You can use task lists to break the work for an issue or pull request into smaller tasks, then track the full set of work to completion.'
 redirect_from:
@@ -7,8 +7,8 @@ redirect_from:
   - /github/managing-your-work-on-github/about-task-lists
   - /issues/tracking-your-work-with-issues/creating-issues/about-task-lists
 versions:
-  fpt: '*'
-  ghes: '*'
+  fpt: '**💙*'
+  ghes: '*''*'
   ghae: '*'
   ghec: '*'
 topics:
